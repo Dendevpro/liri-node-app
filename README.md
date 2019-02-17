@@ -4,8 +4,7 @@ LIRI is a Language Interpretation and Recognition Interface.
 Similar to Apples's Siri, Liri is a command line node app that takes in parameters and gives you back data.
 
 ## What Each Command Should Do
-1. `node` `liri.js` `concert-this` `band name`
-    will call the **Bands In Town API** to get data and output the following information about any given **band** or **musician** the user passes to the terminal.
+1. `node` `liri.js` `concert-this` `band name` . will call the **Bands In Town API** to get data and output the following information about any given **band** or **musician** the user passes to the terminal.
 
     * Name of the venue
     * Venue location
