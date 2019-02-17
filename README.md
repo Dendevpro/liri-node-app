@@ -5,18 +5,16 @@ Similar to Apples's Siri, Liri is a command line node app that takes in paramete
 
 ## What Each Command Should Do
 
-### Concert This
-1. `node` `liri.js` `concert-this` `band name`
-    will call the **Bands In Town API** to get data and output the following information about any given **band** or **musician** the user passes to the terminal.
+### 1. Concert This
+`node` `liri.js` `concert-this` `band name` will call the **Bands In Town API** to get data and output the following information about any given **band** or **musician** the user passes to the terminal.
 
     * Name of the venue
     * Venue location
     * Date of the Event
     
 
-### Spotify This Song
-2. `node` `liri.js` `spotify-this-song` `song name`
-    will call the **Spotify API** to get data and output the following information about any given **song** the user passes to the terminal. _If no song is provided then the program will default to the song "The Sign" by Ace of Base._
+### 2. Spotify This Song
+`node` `liri.js` `spotify-this-song` `song name` will call the **Spotify API** to get data and output the following information about any given **song** the user passes to the terminal. _If no song is provided then the program will default to the song "The Sign" by Ace of Base._
 
     * The song's name
     * Artist(s)
@@ -24,9 +22,8 @@ Similar to Apples's Siri, Liri is a command line node app that takes in paramete
     * The album that the song is from
 
 
-### Movie This
-3. `node` `liri.js` `movie-this` `movie name`
-    will call the **OMDB API** to get data and output the following information about any given **movie** the user passes to the terminal. _If the user doesn't supply a movie name, the program will default to "Mr. Nobody."_
+### 3. Movie This
+`node` `liri.js` `movie-this` `movie name` will call the **OMDB API** to get data and output the following information about any given **movie** the user passes to the terminal. _If the user doesn't supply a movie name, the program will default to "Mr. Nobody."_
 
     * Title of the movie
     * Year the movie came out
@@ -38,9 +35,8 @@ Similar to Apples's Siri, Liri is a command line node app that takes in paramete
     * Actors in the movie
 
 
-### Do What It Says
-4. `node` `liri.js` `do-what-it-says`
-    will read from the file random.txt and then append this text to log.txt.
+### 4. Do What It Says
+`node` `liri.js` `do-what-it-says` will read from the file random.txt and then append this text to log.txt.
 
 #### All Data requested by the user will be appended to log.txt.
 - - - 
