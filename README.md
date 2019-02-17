@@ -52,4 +52,8 @@ Animated GIF Goes here
 or **[View App Demo](https://dendevpro.github.io/bootstrap-portfolio/portfolio.html)**
 - - - 
 ## Project Built With
+<<<<<<< HEAD
 **_JavaScript_**  |  **_Node.js_**  |  **_Bands In Town, Spotify and OMDB APIs_**
+=======
+**_JavaScript_**  |  **_Node.js_**  |  **_Bands In Town, Spotify and OMDB APIs_**
+>>>>>>> 86314a7d7b380a8685adc4b550469f83239eb29d
