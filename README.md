@@ -35,17 +35,14 @@ _If the user doesn't supply a movie name, the program will default to "Mr. Nobod
 4. `node` `liri.js` `do-what-it-says` will read from the file random.txt and then append this text to log.txt.
 
 **All Data requested by the user will be appended to log.txt.**
-
 - - - 
-### Check Gif
+#### Check Gif
 ```
 **__Animated GIF Goes here__**
 
 ```
 OR 
-### [View App Demo](https://dendevpro.github.io/bootstrap-portfolio/portfolio.html)
-
+#### [View App Demo](https://dendevpro.github.io/bootstrap-portfolio/portfolio.html)
 - - - 
-
 ## Project Built With
 **_JavaScript_**  |  **_Node.js_**  |  **_Bands In Town, Spotify and OMDB APIs_**
