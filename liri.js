@@ -91,25 +91,31 @@ function setMedia() {
 }
 
 // Function Concert This
-function concertThis() { // Append a divider/title before each result item 
-    fs.appendFile("log.txt", "--------------" + userInput + "--------------" + "\n", function (error) {
-        if (error) {
-            console.log(error);
-        };
-    });
+function concertThis() {
+    // If statement for no concert provided
+    if (!userInput) {
+        console.log("Try typing an artist or band after 'concert-this'.")
+    }
+    else {
+        fs.appendFile("log.txt", "--------------" + userInput + "--------------" + "\n", function (error) {
+            if (error) {
+                console.log(error);
+            };
+        });
+    }
     // Run request to bandsintown API with the specified artist
     var queryURL = "https://rest.bandsintown.com/artists/" + userInput + "/events?app_id=codingbootcamp"
     request(queryURL, function (error, response, body) {
         if (!error && response.statusCode === 200) { // If there is no error and response is a success
             var concertData = JSON.parse(body); // parse the json response into data
-
+            console.log("log.txt was updated") // Console.log that data was added to the log.txt file
             // Loop through data array
             for (var i = 0; i < concertData.length; i++) {
                 // console.log("Venue: " + concertData[i].venue.name); // Console log venue name
                 fs.appendFile("log.txt", "Venue: " + concertData[i].venue.name + "\n", function (error) { // Append venue name to log.txt
                     if (error) {
                         console.log(error);
-                    };
+                    }
                 });
                 // Get venue location
                 // If statement for concerts without a region
@@ -141,7 +147,6 @@ function concertThis() { // Append a divider/title before each result item
                         console.log(error);
                     };
                 });
-                // console.log("----------------") // Just a divider for the console log results
             }
         }
     });
@@ -178,11 +183,19 @@ function spotifyThis(userInput) {
 
 // Movie Function
 function movieThis(userInput) {
+    // If statement for no movie provided
+    if (!userInput) {
+        userInput = "Mr Nobody";
+        console.log("log.txt was updated with default") // Console.log that data was added to the log.txt file
+    }
+    else {
+        userInput = process.argv[3];
+        console.log("log.txt was updated") // Console.log that data was added to the log.txt file
+    }
     // Then create a request to the queryUrl
     var queryUrl = "http://www.omdbapi.com/?t=" + userInput + "&y=&plot=short&apikey=trilogy";
     request(queryUrl, function (error, response, body) {
         var movieData = JSON.parse(body);
-
         // If the request is successful
         if (!error && response.statusCode === 200) {
 
@@ -208,6 +221,7 @@ function doThis() {
             var content = data.split(',');
             var userInput = content[1].replace(/^"(.+(?="$))"$/, '$1');
             spotifyThis(userInput);
+            console.log("log.txt was updated with default");
         }
     });
 }

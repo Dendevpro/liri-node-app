@@ -1,22 +1,18 @@
 --------------red hot chilli peppers--------------
-Location: Glenorchy, Australia
-Venue: Derwent Entertainment Centre
-Date: 02/17/2019
-----------------
 Venue: Qudos Bank Arena
 Location: Sydney Nsw, Australia
 Date: 02/19/2019
 ----------------
-Venue: Qudos Bank Arena
 Location: Sydney Nsw, Australia
+Venue: Qudos Bank Arena
 Date: 02/20/2019
 ----------------
 Venue: Hope Estate
 Location: Pokolbin, Australia
 Date: 02/23/2019
 ----------------
-Venue: Brisbane Entertainment Centre
 Location: Boondall, Australia
+Venue: Brisbane Entertainment Centre
 Date: 02/25/2019
 ----------------
 Venue: Brisbane Entertainment Centre
@@ -27,8 +23,8 @@ Venue: Rod Laver Arena
 Location: Melbourne, Australia
 Date: 02/28/2019
 ----------------
-Venue: Mt Duneed Estate
 Location: Waurn Ponds, Australia
+Venue: Mt Duneed Estate
 Date: 03/02/2019
 ----------------
 Venue: Superloop Adelaide 500
@@ -39,8 +35,8 @@ Venue: HBF Park formerly known as nib Stadium
 Location: Perth, Australia
 Date: 03/05/2019
 ----------------
-Venue: Spark Arena
 Location: Auckland, New Zealand
+Venue: Spark Arena
 Date: 03/08/2019
 ----------------
 Venue: Spark Arena
@@ -59,10 +55,25 @@ Venue: Cidade do Rock
 Location: Rio De Janeiro, Brazil
 Date: 09/27/2019
 ----------------
+--------------Song: The Sign--------------
+Artist: Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=eb0c79d2dad94568b5745b401e7be141
+Album: The Sign (US Album) [Remastered]
+
 --------------Song: Lithium--------------
 Artist: Nirvana
 Preview URL: null
 Album: Nevermind (Remastered)
+
+--------------Movie--------------
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8/10
+Rotten Tomatoes: 67%
+Country of production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 
 --------------Movie--------------
 Title: The Inglorious Bastards
@@ -78,4 +89,3 @@ Actors: Bo Svenson, Peter Hooten, Fred Williamson, Michael Pergolani
 Artist: Backstreet Boys
 Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=eb0c79d2dad94568b5745b401e7be141
 Album: The Hits--Chapter One
-
