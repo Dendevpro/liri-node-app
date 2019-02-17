@@ -5,13 +5,13 @@ Similar to Apples's Siri, Liri is a command line node app that takes in paramete
 - - - 
 
 ## What Each Command Should Do
-1. `node` `liri.js` `concert-this` `band name` will call the Bands In Town API to get data and output the following information about any given band or musician the user passes to the terminal.
+1. `node` `liri.js` `concert-this` `band name` will call the **Bands In Town API** to get data and output the following information about any given **band** or **musician** the user passes to the terminal.
 
     * Name of the venue
     * Venue location
     * Date of the Event
 
-2. `node` `liri.js` `spotify-this-song` `song name` will call the Spotify API to get data and output the following information about any given song the user passes to the terminal.
+2. `node` `liri.js` `spotify-this-song` `song name` will call the **Spotify API** to get data and output the following information about any given **song** the user passes to the terminal.
 
     * The song's name
     * Artist(s)
@@ -20,7 +20,7 @@ Similar to Apples's Siri, Liri is a command line node app that takes in paramete
 
 _If no song is provided then the program will default to the song "The Sign" by Ace of Base._
 
-3. `node` `liri.js` `movie-this` `movie name` will call the OMDB API to get data and output the following information about any given movie the user passes to the terminal.
+3. `node` `liri.js` `movie-this` `movie name` will call the **OMDB API** to get data and output the following information about any given **movie** the user passes to the terminal.
 
     * Title of the movie
     * Year the movie came out
