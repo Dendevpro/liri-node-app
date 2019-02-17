@@ -43,10 +43,8 @@ _If the user doesn't supply a movie name, the program will default to "Mr. Nobod
 ```
 OR 
 ### [View App Demo](https://dendevpro.github.io/bootstrap-portfolio/portfolio.html)
-<a href="https://dendevpro.github.io/bootstrap-portfolio/portfolio.html" target="_blank">View App Demo!</a>
-
 
 - - - 
 
 ## Project Built With
-**_JavaScript_** | **_Node.js_** | **_Bands In Town, Spotify and OMDB APIs_**
+`**_JavaScript_**`  |  `**_Node.js_**` | `**_Bands In Town, Spotify and OMDB APIs_**`
