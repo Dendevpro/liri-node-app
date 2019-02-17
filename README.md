@@ -42,7 +42,7 @@ _If the user doesn't supply a movie name, the program will default to "Mr. Nobod
 
 ```
 OR 
-### [View App Demo](https://dendevpro.github.io/bootstrap-portfolio/portfolio.html)
+### [View App Demo](https://dendevpro.github.io/bootstrap-portfolio/portfolio.html; target="_blank")
 
 - - - 
 
