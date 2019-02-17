@@ -1,4 +1,4 @@
-# LIRI Bot - Node App  ![Liri Icon](https://img.icons8.com/cotton/64/000000/artificial-intelligence.png)
+# LIRI Bot - Node App  ![Liri Icon](https://img.icons8.com/cotton/64/000000/artificial-intelligence.png) :pager:
 LIRI is a Language Interpretation and Recognition Interface.
 Similar to Apples's Siri, Liri is a command line node app that takes in parameters and gives you back data.
 
@@ -47,4 +47,4 @@ OR
 - - - 
 
 ## Project Built With
-`**_JavaScript_**`  |  `**_Node.js_**` | `**_Bands In Town, Spotify and OMDB APIs_**`
+**_JavaScript_**  |  **_Node.js_**  |  **_Bands In Town, Spotify and OMDB APIs_**
