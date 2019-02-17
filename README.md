@@ -10,16 +10,15 @@ Similar to Apples's Siri, Liri is a command line node app that takes in paramete
     * Venue location
     * Date of the Event
 
-2. `node` `liri.js` `spotify-this-song` `song name` will call the **Spotify API** to get data and output the following information about any given **song** the user passes to the terminal.
+2. `node` `liri.js` `spotify-this-song` `song name` will call the **Spotify API** to get data and output the following information about any given **song** the user passes to the terminal. _If no song is provided then the program will default to the song "The Sign" by Ace of Base._
 
     * The song's name
     * Artist(s)
     * A preview link of the song from Spotify
     * The album that the song is from
 
-_If no song is provided then the program will default to the song "The Sign" by Ace of Base._
+3. `node` `liri.js` `movie-this` `movie name` will call the **OMDB API** to get data and output the following information about any given **movie** the user passes to the terminal. _If the user doesn't supply a movie name, the program will default to "Mr. Nobody."_
 
-3. `node` `liri.js` `movie-this` `movie name` will call the **OMDB API** to get data and output the following information about any given **movie** the user passes to the terminal.
 
     * Title of the movie
     * Year the movie came out
@@ -29,8 +28,6 @@ _If no song is provided then the program will default to the song "The Sign" by 
     * Language of the movie
     * Plot of the movie
     * Actors in the movie
-
-_If the user doesn't supply a movie name, the program will default to "Mr. Nobody."_
 
 4. `node` `liri.js` `do-what-it-says` will read from the file random.txt and then append this text to log.txt.
 
