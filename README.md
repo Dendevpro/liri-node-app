@@ -49,8 +49,7 @@ All Data requested by the user will be appended to log.txt.
 Animated GIF Goes here
 
 ```
-or 
-#### [View App Demo](https://dendevpro.github.io/bootstrap-portfolio/portfolio.html)
+or **[View App Demo](https://dendevpro.github.io/bootstrap-portfolio/portfolio.html)**
 - - - 
 ## Project Built With
 **_JavaScript_**  |  **_Node.js_**  |  **_Bands In Town, Spotify and OMDB APIs_**
