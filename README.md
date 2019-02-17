@@ -40,7 +40,6 @@ Similar to Apples's Siri, Liri is a command line node app that takes in paramete
 
 ```
 All Data requested by the user will be appended to log.txt.
-
 ```
 - - - 
 #### Check App mechanicals on the GIF below
