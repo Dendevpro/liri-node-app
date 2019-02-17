@@ -1,4 +1,4 @@
-![Liri Icon](https://img.icons8.com/cotton/64/000000/artificial-intelligence.png) # LIRI Bot - Node App
+# LIRI Bot - Node App  ![Liri Icon](https://img.icons8.com/cotton/64/000000/artificial-intelligence.png)
 LIRI is a Language Interpretation and Recognition Interface.
 Similar to Apples's Siri, Liri is a command line node app that takes in parameters and gives you back data.
 
