@@ -36,6 +36,7 @@ _If the user doesn't supply a movie name, the program will default to "Mr. Nobod
 
 **All Data requested by the user will be appended to log.txt.**
 
+```
 - - - 
 ### Check Gif
 ```
@@ -44,6 +45,7 @@ _If the user doesn't supply a movie name, the program will default to "Mr. Nobod
 ```
 OR 
 ### [View App Demo](https://dendevpro.github.io/bootstrap-portfolio/portfolio.html)
+```
 
 - - - 
 
