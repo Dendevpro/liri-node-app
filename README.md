@@ -38,17 +38,18 @@ Similar to Apples's Siri, Liri is a command line node app that takes in paramete
 ### 4. Do What It Says
 `node` `liri.js` `do-what-it-says` will read from the file random.txt and then append this text to log.txt.
 
-```js
-#### All Data requested by the user will be appended to log.txt.
+```
+All Data requested by the user will be appended to log.txt.
 
 ```
 - - - 
-#### Check Gif
-```
-**__Animated GIF Goes here__**
+#### Check App mechanicals on the GIF below
 
 ```
-OR 
+Animated GIF Goes here
+
+```
+or 
 #### [View App Demo](https://dendevpro.github.io/bootstrap-portfolio/portfolio.html)
 - - - 
 ## Project Built With
