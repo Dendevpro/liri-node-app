@@ -49,7 +49,7 @@ switch (userCommand) {
         break;
 
     default: // Console log default if no arguments are passed by user
-        console.log("\n" + "Sorry, wrong command." + "\n" + "Try 'concert-this', 'spotify-this-song', 'movie-this' or 'do-what-it-says'." + "\n");
+        console.log("\n" + "Sorry, wrong command." + "\n" + "Try 'concert-this', 'spotify-this-song', 'movie-this' or 'do-what-it-says'" + "'artist/song/movie name'" + "\n");
 }
 
 // ===== FUNCTIONS ======
