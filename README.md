@@ -13,7 +13,7 @@ Similar to Apples's Siri, Liri is a command line node app that takes in paramete
     * Date of the Event
 
 ```
-![](/Gifs/Concert-this-sm.gif)
+![](Gifs/Concert-this-sm.gif)
 ```
     
 ### 2. Spotify This Song
@@ -25,7 +25,7 @@ Similar to Apples's Siri, Liri is a command line node app that takes in paramete
     * The album that the song is from
 
 ```
-![](/Gifs/Spotify-this-song-sm.gif)
+![](Gifs/Spotify-this-song-sm.gif)
 ```
 
 ### 3. Movie This
@@ -41,14 +41,14 @@ Similar to Apples's Siri, Liri is a command line node app that takes in paramete
     * Actors in the movie
 
 ```
-![](/Gifs/Movie-this-sm.gif)
+![](Gifs/Movie-this-sm.gif)
 ```
 
 ### 4. Do What It Says
 `node` `liri.js` `do-what-it-says` will read from the file random.txt and then append this text to log.txt.
 
 ```
-![](/Gifs/Do-this-sm.gif)
+![](Gifs/Do-this-sm.gif)
 ```
 
 - - -
