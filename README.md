@@ -12,9 +12,7 @@ Similar to Apples's Siri, Liri is a command line node app that takes in paramete
     * Venue location
     * Date of the Event
 
-```
 ![](Gifs/Concert-this-sm.gif)
-```
     
 ### 2. Spotify This Song
 `node` `liri.js` `spotify-this-song` `song name` will call the **Spotify API** to get data and output the following information about any given **song** the user passes to the terminal. _If no song is provided then the program will default to the song "The Sign" by Ace of Base._
